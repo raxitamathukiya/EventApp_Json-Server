@@ -1,138 +1,44 @@
 {
-    "product": [
-      {
-        "id": 1,
-        "title": "Indigo Cotton Men's Casual Shirt ",
-        "price": 495,
-        "image": "https://n4.sdlcdn.com/imgs/k/i/d/230X258_sharpened/Life-Roads-Light-Blue-Cotton-SDL005380691-1-c8bc0.webp",
-        "gender": "men",
-        "rating": 4.0,
-        "brand": "Gritstones",
-         "color":"blue",
-         "category":"shirt",
-         "flage":"false"
-      
-      },
-   {
-        "id": 2,
-        "title": "Multicolor Cotton Men's Casual Shirt  ",
-        "price": 469,
-        "image": "https://n2.sdlcdn.com/imgs/k/h/k/230X258_sharpened/Solemio-White-Cotton-Slim-Fit-SDL906987905-1-61198.webp",
-        "gender": "men",
-        "rating": 4.5,
-        "brand": "Gritstones ",
-         "color":"white",
-          "category":"shirt",
-           "flage":"false"
-      
-      },
-  {
-        "id": 3,
-        "title": " Full Sleeves Men's Casual Shirt ",
-        "price": 500,
-        "image": "https://n2.sdlcdn.com/imgs/k/k/v/230X258_sharpened/UrbanMark-Black-Cotton-Regular-Fit-SDL577646785-1-89e87.webp",
-        "gender": "men",
-        "rating": 5.0,
-        "brand": "UrbanMark ",
-         "color":"black",
-          "category":"shirt",
-           "flage":"false"
-      
-      },
-  {
-        "id": 4,
-        "title": "Men's Polo T-Shirt  ",
-        "price": 550,
-        "image": "https://n2.sdlcdn.com/imgs/k/l/q/230X258_sharpened/UrbanMark-Red-Cotton-Blend-Regular-SDL679098648-1-73678.webp",
-        "gender": "men",
-        "rating": 5.0,
-        "brand": "Chkokko ",
-         "color":"red",
-          "category":"T-Shirt",
-           "flage":"false"
-      
-      },
-  {
-        "id": 5,
-        "title": "Multicolor Fit Men's T-Shirt  ",
-        "price": 600,
-        "image": "https://n4.sdlcdn.com/imgs/k/h/p/230X258_sharpened/The-Million-Club-Navy-Cotton-SDL418761075-1-2fba9.webp",
-        "gender": "men",
-        "rating": 4.4,
-        "brand": "GESPO ",
-         "color":"blue",
-           "category":"T-Shirt",
-           "flage":"false"
-      
-      },
-  {
-        "id": 6,
-        "title": "White Men's T-Shirt   ",
-        "price": 360,
-        "image": "https://n2.sdlcdn.com/imgs/k/l/n/230X258_sharpened/Bewakoof-White-Cotton-Oversized-Fit-SDL730924910-1-16245.webp",
-        "gender": "men",
-        "rating": 4.5,
-        "brand": "Bewakoof ",
-         "color":"white",
-          "category":"T-Shirt",
-           "flage":"false"
-      
-      },
-  {
-        "id": 7,
-        "title": "Green Cotton Women's Fit & Flare Dress  ",
-        "price": 500,
-        "image": "https://n4.sdlcdn.com/imgs/k/m/h/230X258_sharpened/Frionkandy-Green-Cotton-Women-s-SDL277078742-1-0de41.webp",
-        "gender": "women",
-        "rating": 4.1,
-        "brand": "Frionkandy",
-         "color":"green",
-          "category":"one piece",
-           "flage":"false"
-      
-      },
-  {
-        "id": 8,
-        "title":" Red Rayon Women's Gown",
-        "price": 1299,
-        "image": "https://n1.sdlcdn.com/imgs/k/l/f/230X258_sharpened/AMIRAS-INDIAN-ETHNIC-WEAR-Red-SDL102758459-1-edd0e.webp",
-        "gender": "women",
-        "rating": 2.0,
-        "brand": "AIE",
-         "color":"red",
-          "category":"one piece",
-           "flage":"false"
-
-      
-      },
-  {
-        "id": 9,
-        "title":"Women Maxi Dress",
-        "price": 749,
-        "image": "https://n2.sdlcdn.com/imgs/k/l/u/230X258_sharpened/UrbanMark-Pink-Polyester-Women-s-SDL191354539-1-dcb7e.webp",
-        "gender": "women",
-        "rating": 4.2,
-        "brand": "UrbanMark",
-         "color":"pink",
-         "category":"one piece",
-           "flage":"false"
-
-      
-      },
-  {
-        "id": 10,
-        "title":"Georgette Women's Gown",
-        "price": 999,
-        "image": "https://n3.sdlcdn.com/imgs/k/m/m/230X258_sharpened/Vastanienterprise-Black-Georgette-Women-s-SDL685204641-1-f9927.webp",
-        "gender": "women",
-        "rating": 2.0,
-        "brand": "Vastanienterprise",
-         "color":"black",
-        "category":"one piece",
-           "flage":"false"
-
-      
-      }
-       
-    ]
-  }
+  "events": [
+    {
+      "id": 1,
+      "poster": "https://www.timeoutdubai.com/cloud/timeoutdubai/2023/05/22/gigs-in-dubai-1.png",
+      "name": "Music Festival",
+      "description": "A vibrant music festival featuring top artists from around the world.",
+      "date": "2023-09-15",
+      "location": "Delhi",
+      "category": "Music",
+      "price": 300
+    },
+    {
+      "id": 2,
+      "poster": "https://media.istockphoto.com/id/1320104418/photo/sport-background-green-field-in-soccer-stadium-ready-for-game-in-the-midfield-3d-illustration.jpg?s=612x612&w=0&k=20&c=P4R6zIzHvVlc3_wtsZPw7LoOG_TC9iV4DvpffHmCuU8=",
+      "name": "Soccer Match",
+      "description": "An exciting soccer match between two rival teams.",
+      "date": "2023-08-28",
+      "location": "Chennai",
+      "category": "Sports",
+      "price": 250
+    },
+    {
+      "id": 3,
+      "poster": "https://wpvip.edutopia.org/wp-content/uploads/2022/10/davis-169hero2-teachcode-twenty20.jpg?w=2880&quality=85",
+      "name": "Coding Workshop",
+      "description": "Learn the art of coding with experienced professionals.",
+      "date": "2023-09-05",
+      "location": "Banglore",
+      "category": "Workshop",
+      "price": 150
+    },
+    {
+      "id": 4,
+      "poster": "https://media.npr.org/assets/img/2017/12/21/_harlan_nprmusic10years-149_wide-78a7596027f7b4c023a21ad85f078e8a4165c230-s800-c85.jpg",
+      "name": "Rock Concert",
+      "description": "A high-energy rock concert with electrifying performances.",
+      "date": "2023-09-20",
+      "location": "Mumbai",
+      "category": "Music",
+      "price": 400
+    }
+  ]
+}
